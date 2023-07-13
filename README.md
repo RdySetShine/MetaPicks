@@ -32,9 +32,7 @@ url: https://drive.google.com/file/d/19TcCNLp_uDtLfB2VVfnlGULO87hvTARg/view
 
 ## Contributing
 
-Keegan Niles Omel
-Austin Grech
-
+Keegan Niles Omel, Austin Grech
 
 ## Questions
 
